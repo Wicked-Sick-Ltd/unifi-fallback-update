@@ -1,0 +1,4 @@
+{
+  "name": "unifi-fallback-update",
+  "install": "bash .cursor/install.sh"
+}
